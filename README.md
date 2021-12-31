@@ -27,3 +27,5 @@
 <hr>
 
 ![img](https://github-profile-trophy.vercel.app/?username=afkvido&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=onedark)
+
+__________
