@@ -25,7 +25,7 @@ ______
 
 
    <p align="center">
-    <img style="border-radius: 100px" width="570" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=dark">
+    <img style="border-radius: 100px" width="700" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=dark">
 </p>
 
 
