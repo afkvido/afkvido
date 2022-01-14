@@ -101,6 +101,14 @@
 [Java] [EncryptCode](https://github.com/afkvido/EncryptCode) - Encrypt your messages with this simple java project! (Discontinued, Archive)
     
 [GFM] [prodigyErrCodes](https://github.com/afkvido/prodigyErrCodes) - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).    
+        
+[Java] [MessageEngine LITE](https://github.com/afkvido-development/MessageEngineLITE) - chat engine platform thing, but less glitchy
+    
+[YAML] [MessageEngine ServerTemplate](https://github.com/afkvido-development/MessageEngine-ServerTemplate) - template for MessageEngine chatServers
+    
+[YAML] [MessageEngine API](https://github.com/afkvido-development/MessageEngine-API) - API for MessageEngine updates and more
+    
+[GFM] [afkvido-development website](https://github.com/afkvido-development/afkvido-development.github.io) - github page for afkvido-development
     
 </details>
 
