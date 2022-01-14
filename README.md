@@ -22,8 +22,7 @@
 
 
 ## Statistics:
-![stats](https://github-readme-stats.vercel.app/api?username=afkvido&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=afkvido&count_private=true&show_icons=true&include_all_commits=true&theme=dark) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=dark)
 <hr>
 
 ![img](https://github-profile-trophy.vercel.app/?username=afkvido&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=onedark)
