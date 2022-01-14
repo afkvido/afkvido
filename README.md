@@ -76,3 +76,41 @@
     
 </details>
 
+
+
+<details align="left">
+    <summary>My repositories</summary>
+    <p></p>
+    
+[GFM] [afkvido](https://github.com/afkvido/afkvido) - This document
+
+[Java] [MessageEngine](https://github.com/afkvido-development/MessageEngine) - chat engine platform thing
+    
+[Java] [MessageEngine PTB](https://github.com/afkvido-development/MessageEngine-PTB) - MessageEngine Public Test Beta
+    
+[Java] [MessageEngine Alpha](https://github.com/afkvido/MessageEngine-Alpha) - MessageEngine Public Alpha Test
+    
+[GFM] [ii9/m](https://github.com/iii9/m) - Redirect to MessageEngine
+    
+[Java] [UsefulStuff](https://github.com/afkvido/UsefulStuff) - Useful utilities that you can add to your java project for convenience
+    
+[Java] [RDK](https://github.com/afkvido/RDK) - Retard Development Kit for Java. For Retards, By Retards.
+    
+[GFM] [My GitHub website](https://github.com/afkvido/afkvido.github.io) - afkvido.github.io
+    
+[Java] [EncryptCode](https://github.com/afkvido/EncryptCode) - Encrypt your messages with this simple java project! (Discontinued, Archive)
+    
+</details>
+
+
+
+
+<details align="left">
+    <summary>My contributions</summary>
+    <p></p>
+    
+[TS] [ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
+    
+    
+</details>
+
