@@ -5,6 +5,9 @@
 <h1 align="center">gemsvidø</h1>
 
 
+
+
+
 <details>
 <summary>Contact me</summary>
     <p></p>
@@ -15,6 +18,9 @@
 </details>
 
 
+
+
+
 <details align="left">
     <summary>My most used languages</summary>
     <p></p>
@@ -22,6 +28,9 @@
   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=dark)
     
 </details>
+
+
+
 
 
 
@@ -37,6 +46,8 @@
 
 
 
+
+
 <details align="left">
     <summary>My achivements</summary>
     <p></p>
@@ -47,12 +58,21 @@
 
 
 
+
+
+
+
 <details align="left">
     <summary>My organizations</summary>
     <p></p>
     
-[deadlyClient development](https://github.com/deadlyClient)
+[deadlyClient development](https://github.com/deadlyClient) - deadlyClient
 
-[afkvido development](https://github.com/afkvido-development)    
+[afkvido development](https://github.com/afkvido-development) - afkvido's official organization
+    
+[MsgEngine](https://github.com/MsgEngine) - MessageEngine server collection
+    
+[ii9](https://github.com/iii9) - Redirect
+    
 </details>
 
