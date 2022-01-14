@@ -119,7 +119,7 @@
     <summary>My contributions</summary>
     <p></p>
     
-[TS] [ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
+[TS] [ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking) - exploiting prodigy kids math game
     
     
 </details>
