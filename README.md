@@ -100,6 +100,8 @@
     
 [Java] [EncryptCode](https://github.com/afkvido/EncryptCode) - Encrypt your messages with this simple java project! (Discontinued, Archive)
     
+[GFM] [prodigyErrCodes](https://github.com/afkvido/prodigyErrCodes) - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).    
+    
 </details>
 
 
