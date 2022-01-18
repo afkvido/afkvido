@@ -82,33 +82,33 @@
     <summary>My repositories</summary>
     <p></p>
     
-[GFM] [afkvido](https://github.com/afkvido/afkvido) - This document
+[GFM] [afkvido](https://github.com/afkvido/afkvido) - This document (Markdown, GitHub Flavored Markdown)
 
-[Java] [MessageEngine](https://github.com/afkvido-development/MessageEngine) - chat engine platform thing
+[Java] [MessageEngine](https://github.com/afkvido-development/MessageEngine) - chat engine platform thing (Pure Java)
     
-[Java] [MessageEngine PTB](https://github.com/afkvido-development/MessageEngine-PTB) - MessageEngine Public Test Beta
+[Java] [MessageEngine PTB](https://github.com/afkvido-development/MessageEngine-PTB) - MessageEngine Public Test Beta (Pure Java)
     
-[Java] [MessageEngine Alpha](https://github.com/afkvido/MessageEngine-Alpha) - MessageEngine Public Alpha Test
+[Java] [MessageEngine Alpha](https://github.com/afkvido/MessageEngine-Alpha) - MessageEngine Public Alpha Test (Pure Java)
     
-[GFM] [ii9/m](https://github.com/iii9/m) - Redirect to MessageEngine
+[GFM] [ii9/m](https://github.com/iii9/m) - Redirect to MessageEngine (Markdown, GitHub Flavored Markdown)
     
-[Java] [UsefulStuff](https://github.com/afkvido/UsefulStuff) - Useful utilities that you can add to your java project for convenience
+[Java] [UsefulStuff](https://github.com/afkvido/UsefulStuff) - Useful utilities that you can add to your java project for convenience (Pure Java)
     
-[Java] [RDK](https://github.com/afkvido/RDK) - Retard Development Kit for Java. For Retards, By Retards.
+[Java] [RDK](https://github.com/afkvido/RDK) - Retard Development Kit for Java. For Retards, By Retards. (Pure Java)
     
-[GFM] [My GitHub website](https://github.com/afkvido/afkvido.github.io) - afkvido.github.io
+[GFM] [My GitHub website](https://github.com/afkvido/afkvido.github.io) - afkvido.github.io (Markdown, GitHub Flavored Markdown)
     
-[Java] [EncryptCode](https://github.com/afkvido/EncryptCode) - Encrypt your messages with this simple java project! (Discontinued, Archive)
+[Java] [EncryptCode](https://github.com/afkvido/EncryptCode) - Encrypt your messages with this simple java project! _Discontinued, Archive_ (Pure Java)
     
-[GFM] [prodigyErrCodes](https://github.com/afkvido/prodigyErrCodes) - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).    
+[GFM] [prodigyErrCodes](https://github.com/afkvido/prodigyErrCodes) - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking). (Markdown, GitHub Flavored Markdown)
         
-[Java] [MessageEngine LITE](https://github.com/afkvido-development/MessageEngineLITE) - chat engine platform thing, but less glitchy
+[Java] [MessageEngine LITE](https://github.com/afkvido-development/MessageEngineLITE) - chat engine platform thing, but less glitchy (Pure Java)
     
-[YAML] [MessageEngine ServerTemplate](https://github.com/afkvido-development/MessageEngine-ServerTemplate) - template for MessageEngine chatServers
+[YML] [MessageEngine ServerTemplate](https://github.com/afkvido-development/MessageEngine-ServerTemplate) - template for MessageEngine chatServers (Mostly YAML)
     
-[YAML] [MessageEngine API](https://github.com/afkvido-development/MessageEngine-API) - API for MessageEngine updates and more
+[YML] [MessageEngine API](https://github.com/afkvido-development/MessageEngine-API) - API for MessageEngine updates and more (Mostly YAML)
     
-[GFM] [afkvido-development website](https://github.com/afkvido-development/afkvido-development.github.io) - github page for afkvido-development
+[GFM] [afkvido-development website](https://github.com/afkvido-development/afkvido-development.github.io) - github page for afkvido-development (Markdown, GitHub Flavored Markdown)
     
 </details>
 
@@ -119,7 +119,7 @@
     <summary>My contributions</summary>
     <p></p>
     
-[TS] [ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking) - exploiting prodigy kids math game
+[TS] [ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking) - exploiting prodigy kids math game (TypeScript, JavaScript)
     
     
 </details>
