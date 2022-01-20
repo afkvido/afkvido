@@ -72,7 +72,7 @@
     
 [MsgEngine](https://github.com/MsgEngine) - MessageEngine server collection
     
-[ii9](https://github.com/iii9) - Redirect
+[iii9](https://github.com/iii9) - Redirect
     
 </details>
 
