@@ -25,6 +25,9 @@
     <summary>My most used languages</summary>
     <p></p>
     
+  ![Java](https://img.shields.io/badge/-Java-gray?style=for-the-badge&logo=java)
+  ![HTML5](https://img.shields.io/badge/-HTML5-gray?style=for-the-badge&logo=html5)
+    
   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=dark)
     
 </details>
