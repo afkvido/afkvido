@@ -91,7 +91,7 @@
     
 [Java] [MessageEngine PTB](https://github.com/afkvido-development/MessageEngine-PTB) - MessageEngine Public Test Beta (Pure Java)
     
-[Java] [MessageEngine Alpha](https://github.com/afkvido/MessageEngine-Alpha) - MessageEngine Public Alpha Test (Pure Java)
+[Java] [MessageEngine Alpha](https://github.com/afkvido-development/MessageEngine-Alpha) - MessageEngine Public Alpha Test (Pure Java)
     
 [GFM] [ii9/m](https://github.com/iii9/m) - Redirect to MessageEngine (Markdown, GitHub Flavored Markdown)
     
