@@ -5,11 +5,18 @@
 <h1 align="center">gemsvidø</h1>
 
 <h5 align = "center">
-    <a href = "https://twitch.tv/gemsvido">
+    
+ <a href = "https://twitch.tv/gemsvido">
     <img alt="Twitch" src="https://img.shields.io/twitch/status/gemsvido?color=783ce8&label=gemsvido&logo=twitch&logoColor=white&style=for-the-badge">⠀
-    </a>        
+ </a>
+    
+<a href = "https://www.youtube.com/channel/UCfrn2_xYAu9r7U7kSsmJkfg">
     <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCfrn2_xYAu9r7U7kSsmJkfg?color=red&label=gemsvid%C3%B8&logo=YouTube&logoColor=white&style=for-the-badge">⠀
+ </a>
+    
+<a href = "https://github.com/afkvido?tab=followers">
     <img alt="GitHub" src="https://img.shields.io/github/followers/afkvido?label=afkvido&logo=GitHub&logoColor=white&style=for-the-badge">⠀
+</a>
 </h5>
 
 _____
