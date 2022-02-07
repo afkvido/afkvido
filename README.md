@@ -114,15 +114,3 @@ _____
 </details>
 
 <p></p>
-
-<details align="left">
-<summary>My other repositories</summary>
-
-<p></p>
-[GFM] <a href="https://github.com/afkvido/afkvido">afkvido</a> - My profile (Markdown, GitHub Flavored Markdown)
-    <p></p>
-[GFM] <a href="https://github.com/afkvido/afkvido.github.io">afkvido.github.io</a> - This website (HTML, Markdown, GitHub Flavored Markdown)
-    <p></p>
-[GFM] <a href="https://github.com/afkvido-development/afkvido-development.github.io">afkvido development website</a> - github page for afkvido-development (Markdown, GitHub Flavored Markdown)
-    
-</details>
