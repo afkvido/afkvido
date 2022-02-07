@@ -21,125 +21,117 @@
 
 _____
 
-[My Website](https://afkvido.github.io)
-
-
-<details align="left">
-    <summary>My repositories</summary>
+    
+<details align ="left">
+<summary>My MessageEngine project </summary>
+  
+    <p></p>  
+<a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - chat engine platform thing (Pure Java)
     <p></p>
-    
-[GFM] [afkvido](https://github.com/afkvido/afkvido) - This document (Markdown, GitHub Flavored Markdown)
-
-[Java] [MessageEngine](https://github.com/afkvido-development/MessageEngine) - chat engine platform thing (Pure Java)
-    
-[Java] [MessageEngine PTB](https://github.com/afkvido-development/MessageEngine-PTB) - MessageEngine Public Test Beta (Pure Java)
-    
-[Java] [MessageEngine Alpha](https://github.com/afkvido-development/MessageEngine-Alpha) - MessageEngine Public Alpha Test (Pure Java)
-    
-[GFM] [ii9/m](https://github.com/iii9/m) - Redirect to MessageEngine (Markdown, GitHub Flavored Markdown)
-    
-[Java] [UsefulStuff](https://github.com/afkvido/UsefulStuff) - Useful utilities that you can add to your java project for convenience (Pure Java)
-    
-[Java] [RDK](https://github.com/afkvido/RDK) - Retard Development Kit for Java. For Retards, By Retards. (Pure Java)
-    
-[GFM] [My GitHub website](https://github.com/afkvido/afkvido.github.io) - afkvido.github.io (Markdown, GitHub Flavored Markdown)
-    
-[Java] [EncryptCode](https://github.com/afkvido/EncryptCode) - Encrypt your messages with this simple java project! _Discontinued, Archive_ (Pure Java)
-    
-[GFM] [prodigyErrCodes](https://github.com/afkvido/prodigyErrCodes) - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking). (Markdown, GitHub Flavored Markdown)
-        
-[Java] [MessageEngine LITE](https://github.com/afkvido-development/MessageEngineLITE) - chat engine platform thing, but less glitchy (Pure Java)
-    
-[YML] [MessageEngine ServerTemplate](https://github.com/afkvido-development/MessageEngine-ServerTemplate) - template for MessageEngine chatServers (Mostly YAML)
-    
-[YML] [MessageEngine API](https://github.com/afkvido-development/MessageEngine-API) - API for MessageEngine updates and more (Mostly YAML)
-    
-[GFM] [afkvido-development website](https://github.com/afkvido-development/afkvido-development.github.io) - github page for afkvido-development (Markdown, GitHub Flavored Markdown)
-    
+<a href="https://github.com/afkvido-development/MessageEngine-PTB">MessageEngine PTB</a> - MessageEngine Public Test Beta (Pure Java)
+    <p></p>
+<a href="https://github.com/afkvido-development/MessageEngine-Alpha">MessageEngine Alpha</a> - MessageEngine Public Alpha Test (Pure Java)
+    <p></p>
+<a href="https://github.com/afkvido-development/MessageEngineLITE">MessageEngineLITE</a> - MessageEngine, but less glitchy (Pure Java)
+    <p></p>  
+<a href="https://github.com/afkvido-development/MessageEngine-API">MessageEngine API</a> - API for MessageEngine updates and more (Mostly YAML)
+    <p></p>  
+<a href="https://github.com/MessageEngine-Alpha">MessageEngine Alpha Website</a> - MessageEngine Alpha's website (https://messageengine-alpha.github.io)
+    <p></p>  
+<a href="https://github.com/afkvido-development/MessageEngine-ServerTemplate">MessageEngine ServerTemplate</a> - Template for MessageEngine ChatServers (Mostly YAML)
+    <p></p>
+<a href="https://github.com/afkvido-development/MessageEngine-API">MessageEngine API</a> - API for MessageEngine updates and more (Mostly YAML)
+  
 </details>
+      
+<p></p>
+      
+      
+<details align ="left">
+<summary>My other Java projects</summary>      
+    
+    <p></p>
+<a href="https://github.com/afkvido/UsefulStuff">UsefulStuff</a> - Useful utilities that you can add to your java project for convenience (Pure Java)
+    <p></p>
+<a href="https://github.com/afkvido/RDK">RDK</a> - Retard Development Kit for Java. For Retards, By Retards. (Pure Java)
+      
+</details>
+    
+<p></p>      
+      
+<details align ="left">
+<summary>My collaboration projects </summary>
+  
+    <p></p>  
+<a href="https://github.com/afkvido/afkvido.github.io">afkvido.github.io</a> - This website (HTML, CSS)
+    <p></p>
+<a href="https://github.com/ProdigyErrorCodes/ProdigyErrorCodes">ProdigyErrorCodes</a> - List of behaviors that trigger errors in Prodigy Math Game. (Markdown/GitHub Flavored Markdown)
+    <p></p>
+<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">ProdigyMathGameHacking</a> - Exploiting prodigy kids math game. I don't own this repo, but I've contributed to it. (TypeScript, JavaScript)  
+    <p></p>
 
+</details>
+      
+<p></p>       
+      
+      
+      
+<details align="left">
 
-<details>
 <summary>Contact me</summary>
     <p></p>
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> <a href="https://dsc.bio/gemsvido">gemsvido#6866</a>
-</p>
-<img align="left" alt="Email" width="26px" src="https://www.google.com/a/cpanel/gmail.com/images/favicon.ico" /> <a href="mailto:gemsvido@gmail.com">gemsvido@gmail.com</a>
-</p>
-</details>
-
-
-
-
-
-<details align="left">
-    <summary>My most used languages</summary>
+<img align="left" alt="Discord" width="26px" src="https://user-images.githubusercontent.com/74021676/150680433-9bc9186a-6a37-4b5c-80d9-504db53beed9.png" /> &nbsp; <a href="https://dsc.bio/gemsvido"> gemsvido#6866</a>
     <p></p>
-    
-  ![Java](https://img.shields.io/badge/-Java-gray?style=for-the-badge&logo=java)
-  ![HTML5](https://img.shields.io/badge/-HTML5-gray?style=for-the-badge&logo=html5)
-    
-  ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=dark)
-    
+<img align="left" alt="Email" width="26px" src="https://www.google.com/a/cpanel/gmail.com/images/favicon.ico" /> &nbsp; <a href="mailto:gemsvido@gmail.com"> gemsvido@gmail.com</a>
+    <p></p>
 </details>
 
+<p></p>
 
-
-
-
-
+      
 <details align="left">
     <summary>My statistics</summary>
     <p></p>
-    
-  ![image](https://github-readme-stats.vercel.app/api?username=afkvido&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-    
+        
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=afkvido&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true&amp;theme=light" href="https://github.com/afkvido" />
+
 </details>
 
-
-
-
-
-
+<p></p>
 
 <details align="left">
+  
     <summary>My achivements</summary>
     <p></p>
     
-  ![image](https://github-profile-trophy.vercel.app/?username=afkvido)
-    
+<img width="500" src="https://github-profile-trophy.vercel.app/?username=afkvido&amp;rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,C&amp;theme=onelight" href="https://github.com/afkvido" />
+        
 </details>
 
-
-
-
-
-
+<p></p>
 
 <details align="left">
     <summary>My organizations</summary>
+    
     <p></p>
-    
-[deadlyClient development](https://github.com/deadlyClient) - deadlyClient
+<a href="https://github.com/deadlyClient">deadlyClient development</a> - deadlyClient
+    <p></p>
+<a href="https://github.com/afkvido-development">afkvido development</a> - afkvido's official organization
+    <p></p>
+<a href="https://github.com/ProdigyErrorCodes">ProdigyErrorCodes</a> - Prodigy Error Codes
 
-[afkvido development](https://github.com/afkvido-development) - afkvido's official organization
-    
-[MsgEngine](https://github.com/MsgEngine) - MessageEngine server collection
-    
-[iii9](https://github.com/iii9) - Redirect
-    
 </details>
 
-
-
-
+<p></p>
 
 <details align="left">
-    <summary>My contributions</summary>
+    <summary>My other repositories</summary>
+
     <p></p>
-    
-[TS] [ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking) - exploiting prodigy kids math game (TypeScript, JavaScript)
-    
+[GFM] <a href="https://github.com/afkvido/afkvido">afkvido</a> - My profile (Markdown, GitHub Flavored Markdown)
+    <p></p>
+[GFM] <a href="https://github.com/afkvido/afkvido.github.io">afkvido.github.io</a> - This website (HTML, Markdown, GitHub Flavored Markdown)
+    <p></p>
+[GFM] <a href="https://github.com/afkvido-development/afkvido-development.github.io">afkvido development website</a> - github page for afkvido-development (Markdown, GitHub Flavored Markdown)
     
 </details>
-
