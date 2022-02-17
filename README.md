@@ -29,11 +29,7 @@ _____
 <p></p>  
 <a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - chat engine platform thing (Pure Java)
     <p></p>
-<a href="https://github.com/afkvido-development/MessageEngine-PTB">MessageEngine PTB</a> - MessageEngine Public Test Beta (Pure Java)
-    <p></p>
-<a href="https://github.com/afkvido-development/MessageEngine-Alpha">MessageEngine Alpha</a> - MessageEngine Public Alpha Test (Pure Java)
-    <p></p>
-<a href="https://github.com/afkvido-development/MessageEngineLITE">MessageEngineLITE</a> - MessageEngine, but less glitchy (Pure Java)
+<a href="https://github.com/afkvido-development/MessageEngineLITE">MessageEngineLITE</a> - MessageEngine, but it's a resource (Pure Java)
     <p></p>  
 <a href="https://github.com/afkvido-development/MessageEngine-API">MessageEngine API</a> - API for MessageEngine updates and more (Mostly YAML)
     <p></p>  
