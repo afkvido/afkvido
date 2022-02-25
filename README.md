@@ -27,13 +27,11 @@ _____
 <summary>My MessageEngine project </summary>
   
 <p></p>  
-<a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - chat engine platform thing (Pure Java)
+<a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - MessageEngine Client by gemsvidø (Pure Java)
     <p></p>
-<a href="https://github.com/afkvido-development/MessageEngineLITE">MessageEngineLITE</a> - MessageEngine, but it's a resource (Pure Java)
+<a href="https://github.com/afkvido-development/MessageEngine-Core">MessageEngine Core</a> - MessageEngine by gemsvidø, but it's a resource (Pure Java)
     <p></p>  
 <a href="https://github.com/afkvido-development/MessageEngine-API">MessageEngine API</a> - API for MessageEngine updates and more (Mostly YAML)
-    <p></p>  
-<a href="https://github.com/MessageEngine-Alpha">MessageEngine Alpha Website</a> - MessageEngine Alpha's website (https://messageengine-alpha.github.io)
     <p></p>  
 <a href="https://github.com/afkvido-development/MessageEngine-ServerTemplate">MessageEngine ServerTemplate</a> - Template for MessageEngine ChatServers (Mostly YAML)
     <p></p>
@@ -48,9 +46,9 @@ _____
 <summary>My other Java projects</summary>      
     
 <p></p>
-<a href="https://github.com/afkvido/UsefulStuff">UsefulStuff</a> - Useful utilities that you can add to your java project for convenience (Pure Java)
+<a href="https://github.com/afkvido-development/UsefulStuff">UsefulStuff</a> - Useful utilities that you can add to your java project for convenience (Pure Java)
     <p></p>
-<a href="https://github.com/afkvido/RDK">RDK</a> - Retard Development Kit for Java. For Retards, By Retards. (Pure Java)
+<a href="https://github.com/afkvido-development/RDK">RDK</a> - Retard Development Kit for Java. For Retards, By Retards. (Pure Java)
       
 </details>
     
