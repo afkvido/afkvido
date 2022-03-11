@@ -24,7 +24,7 @@ _____
     
     
 <details align ="left">
-<summary>My MessageEngine project </summary>
+<summary>My MessageEngine project</summary>
   
 <p></p>  
 <a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - MessageEngine Client by gemsvidø (Pure Java)
