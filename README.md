@@ -10,7 +10,7 @@
     <img alt="Twitch" src="https://img.shields.io/twitch/status/gemsvido?color=783ce8&label=gemsvido&logo=twitch&logoColor=white&style=for-the-badge">⠀
  </a>
     
-<a href = "https://www.youtube.com/channel/UCfrn2_xYAu9r7U7kSsmJkfg">
+<a href = "https://www.youtube.com/@gemsvido">
     <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCfrn2_xYAu9r7U7kSsmJkfg?color=red&label=gemsvid%C3%B8&logo=YouTube&logoColor=white&style=for-the-badge">⠀
  </a>
     
